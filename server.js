@@ -2,7 +2,6 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 const cookieSession = require('cookie-session');
-const mysql = require('mysql');
 const server = express();
 server.use(bodyParser.urlencoded({ extended: false }));
 //the cores config
