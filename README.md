@@ -93,4 +93,5 @@ node server.js
 
 #### 项目启动需要修改的点 
 mysql 升级mysql2
-删掉无法下载的依赖
+删掉express-router
+需要自己创建mysql数据库，并且执行sql语句预置数据
