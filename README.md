@@ -91,5 +91,6 @@ node server.js
 ![](http://i.imgur.com/sIfHd0z.png)
 
 
-....未完待续 QQ交流群:526450553已满员，大家可以叫我个人QQ：386271623，拉大家进微信群
-
+#### 项目启动需要修改的点 
+mysql 升级mysql2
+删掉无法下载的依赖
